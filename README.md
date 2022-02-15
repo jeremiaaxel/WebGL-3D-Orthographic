@@ -1,4 +1,4 @@
-# Web GL Fundamentals - 3D Orthographic Projection
+# Web GL Fundamentals - 3D Orthographic
 Kode diambil dan dimodifikasi dari [WebGL 3D Orthographic](https://webglfundamentals.org/webgl/lessons/webgl-3d-orthographic.html)
 ## Prerequisite
 - Tidak dibutuhkan prerequiste apapun.
